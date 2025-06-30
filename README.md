@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Smruti prangya rout</h1>
 <h3 align="center">A passionate Software developer | Data science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smurtiprangya-rout-2006&label=Profile%20views&color=0e75b6&style=flat" alt="smurtiprangya-rout-2006" /> </p>
